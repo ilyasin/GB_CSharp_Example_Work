@@ -10,4 +10,4 @@
 
 [“Russia”, “Denmark”, “Kazan”] → []
 
-*Блок схема:* [link](https://github.com/ilyasin/GB_CSharp_Example_Work/blob/main/README.md)
+*Блок схема:* [link](https://github.com/ilyasin/GB_CSharp_Example_Work/blob/main/%D0%B1%D0%BB%D0%BE%D0%BA%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0.drawio)
